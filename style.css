@@ -1,0 +1,60 @@
+header h1{
+    text-align: center;
+    background-color: blue;
+    border-radius: 50px;
+    color: white;
+    }
+    body{
+    background-color: Yellow;
+    }
+    nav{
+    margin: 10px 0px;
+    text-align: center;
+    margin: 20px 0px;
+    padding: 20px 0px;
+    
+    border-radius: 10px;
+    }
+    nav a{
+    text-decoration: none;
+    margin-right: 60px;
+    padding: 10px;
+    border-radius: 10px; 
+    border: 4px inset black;
+    color: black;
+    
+    background-color: aquamarine;
+    font-size: 25px;
+    }
+    main p{
+    text-align: center;
+    padding: 10px;
+    background-color: blue;
+    color: yellow;
+    border-radius: 10px;
+    font-size: 25px;
+    }
+    footer{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    }
+    footer p{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    }
+    
+    img{border-radius: 20px;
+    border: 4px inset black;
+}
+    
+    
+    
+    
+    
+    
